@@ -24,5 +24,5 @@ I am a Master's Candidate specializing in Business Analytics and Artificial Inte
 ---
 
 ## 🎓 Education & Professional Focus
-* **M.S. in Business Analytics & Artificial Intelligence** | *Expected Graduation: Dec 2026*
+* **M.S. in Business Analytics & Artificial Intelligence** | *Graduation: Dec 2026*
 * Core focus areas: Experimentation Design (A/B Testing), Product Management, Scalable Data Architectures, Lifecycle Cohort Metrics
