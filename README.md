@@ -1,28 +1,35 @@
-# 👋 Hi, I'm Brighton | Analytics Product Leader
+# Hi, I'm Brighton Matibe 👋
 
-I am a Master's Candidate specializing in Business Analytics and Artificial Intelligence, combining econometric data pipelines with Agile product management methodologies. I build data products that translate volatile raw operational datasets into actionable strategic roadmaps.
-
----
-
-## 🛠️ Technical Ecosystem & Toolbox
-* **Data Engineering & Analytics:** R (tidyverse, ggplot2, scales), Python, SQL
-* **Product Frameworks:** Agile/Scrum Frameworks, Product Backlog Grooming, User Story Mapping, UX Evaluation Matrices
-* **Tools & Infrastructure:** Git, GitHub Desktop, RStudio, Tableau
+### Product Owner & Data Analytics Leader
+I bridge the gap between heavy data engineering pipelines and cross-functional product strategy. Backed by an industry-standard **Professional Scrum Product Owner (PSPO I)** certification and an advanced analytics background, I specialize in transforming messy transactional logs into scalable data products, optimized user conversion funnels, and predictive machine learning models.
 
 ---
 
-## 🚀 Featured Product Analytics Case Studies
-
-### 1. 📱 [Mobile Feature Engagement & Funnel Retention Analysis](https://github.com/Brighttana/Mobile-Feature-Engagement-Analysis)
-* **Objective:** Built an end-to-end user behavior pipeline using R to analyze conversion drops and user churn after a premium feature launch.
-* **Impact:** Isolated a major mid-funnel choke point and statistically validated that feature discovery correlates with a net **25%+ lift** in Day-30 user retention.
-
-### 📈 2. [Global Supply Chain Risk Dashboard (US Inbound Focus)](https://github.com/Brighttana/Product-Analytics-Projects)
-* **Objective:** Constructed an automated BLS freight cost data pipeline to monitor structural supply lane anomalies hitting domestic manufacturing hubs.
-* **Impact:** Designed custom visual alert thresholds to signal prolonged lead times, port congestion spikes, and trapped working capital trends tied to ongoing geopolitical choke points.
+### 🎓 Education & Academic Foundation
+* **Master of Science (MS) in Business Analytics & Artificial Intelligence** | The University of Texas at Dallas (Graduating December 2024)
+* **Bachelor of Science (BS) in Economics** | (Graduated 2019)
 
 ---
 
-## 🎓 Education & Professional Focus
-* **M.S. in Business Analytics & Artificial Intelligence** | *Graduation: Dec 2026*
-* Core focus areas: Experimentation Design (A/B Testing), Product Management, Scalable Data Architectures, Lifecycle Cohort Metrics
+### 🛠️ Core Expertise & Technical Stack
+* **Methodologies & Frameworks:** Agile/Scrum Product Ownership, Product Backlog Optimization, Sprint Planning, A/B Testing & Multivariate Experimentation Design, Data-Driven Lifecycle Retention.
+* **Data Engineering & Analytics:** R (tidyverse, ggplot2, tidymodels), Advanced SQL (Layered CTEs, Window Functions, Complex Join Optimization), Tableau, Power BI, Advanced Excel.
+* **Collaboration & Operations:** Jira, Smartsheet, Git/GitHub Version Control.
+
+---
+
+### 🚀 Featured Data Products (Detailed Below)
+
+#### 📱 [1. Mobile App Feature Engagement & Funnel Analysis](https://github.com/Brighton-Matibe/Mobile-Feature-Engagement-Analysis)
+* **The Core:** Ingested user behavior data to uncover a mid-funnel conversion bottleneck at 45%. Designed an A/B test framework ($N=6,400$) and ran a Chi-Square test confirming a statistically significant conversion lift to 51% via target UI tool-tips.
+* **Applied AI:** Engineered a binary **Logistic Regression Classification Model** utilizing `tidymodels` to predict individual user churn probabilities, allowing product teams to automate proactive marketing guardrails.
+
+#### 📈 [2. Global Supply Chain Risk Dashboard](https://github.com/Brighton-Matibe/Product-Analytics-Projects)
+* **The Core:** Automated a macroeconomic freight cost pipeline integrated with FRED indices. Built optimized backend data models utilizing **multi-layered SQL CTEs** and window functions (`AVG() OVER`, `LEAD()`) to isolate structural vendor delays from random shipping noise.
+* **Applied AI:** Built a **Linear Regression Machine Learning Engine** to forecast exact transit lead-time delay windows ($R^2 > 0.82$), shifting the operations workflow from reactive debugging to predictive inventory management.
+
+---
+
+### 📬 Let's Connect!
+* **LinkedIn:** [www.linkedin.com/in/brighton-matibe].
+* **Handshake:** Open to Technical Product Owner, Product Manager,Business Analyst, Pricing Analyst, Logistics Analyst, Supply Chain Analyst and Product Analyst roles.
