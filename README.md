@@ -5,12 +5,6 @@ I bridge the gap between heavy data engineering pipelines and cross-functional p
 
 ---
 
-### 🎓 Education & Academic Foundation
-* **Master of Science (MS) in Business Analytics & AI** | The University of Texas at Dallas (Graduating December 2024)
-* **Bachelor of Science (BS) in Economics** | (Graduated 2019)
-
----
-
 ### 🛠️ Core Expertise & Technical Stack
 * **Methodologies & Frameworks:** Agile/Scrum Product Ownership, Product Backlog Optimization, Sprint Planning, A/B Testing & Multivariate Experimentation Design, Data-Driven Lifecycle Retention.
 * **Data Engineering & Analytics:** R (tidyverse, ggplot2, tidymodels), Advanced SQL (Layered CTEs, Window Functions, Complex Join Optimization), Tableau, Power BI, Advanced Excel.
@@ -27,6 +21,15 @@ I bridge the gap between heavy data engineering pipelines and cross-functional p
 #### 📈 [2. Global Supply Chain Risk Dashboard](https://github.com/Brighton-Matibe/Product-Analytics-Projects)
 * **The Core:** Automated a macroeconomic freight cost pipeline integrated with FRED indices. Built optimized backend data models utilizing **multi-layered SQL CTEs** and window functions (`AVG() OVER`, `LEAD()`) to isolate structural vendor delays from random shipping noise.
 * **Applied AI:** Built a **Linear Regression Machine Learning Engine** to forecast exact transit lead-time delay windows ($R^2 > 0.82$), shifting the operations workflow from reactive debugging to predictive inventory management.
+
+---
+
+### 🎓 Education & Academic Foundation
+* **Master of Science (MS) in Business Analytics & Artificial Intelligence** | The University of Texas at Dallas (December 2024)
+* **Bachelor of Science (BS) in Economics** | (2019)
+
+### 📜 Professional Certifications
+* **Professional Scrum Product Owner (PSPO I)** | Scrum.org (Credential ID: Locked & Verified)
 
 ---
 
