@@ -6,7 +6,7 @@ I bridge the gap between heavy data engineering pipelines and cross-functional p
 ---
 
 ### 🎓 Education & Academic Foundation
-* **Master of Science (MS) in Business Analytics & Artificial Intelligence** | The University of Texas at Dallas (Graduating December 2024)
+* **Master of Science (MS) in Business Analytics & AI** | The University of Texas at Dallas (Graduating December 2024)
 * **Bachelor of Science (BS) in Economics** | (Graduated 2019)
 
 ---
