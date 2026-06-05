@@ -32,4 +32,8 @@ I bridge the gap between heavy data engineering pipelines and cross-functional p
 
 ### 📬 Let's Connect!
 * **LinkedIn:** [www.linkedin.com/in/brighton-matibe].
-* **Handshake:** Open to Technical Product Owner, Product Manager,Business Analyst, Pricing Analyst, Logistics Analyst, Supply Chain Analyst and Product Analyst roles.
+* **Professional Email:** [Brightonmatibecsp@gmail.com]
+
+### 🎯 Target Roles & Focus
+* **Active Directives:** Technical Product Owner, Product Manager,Business Analyst, Pricing Analyst, Logistics Analyst, Supply Chain Analyst and Product Analyst roles.
+* **Mobility:** Dallas-Fort Worth Metroplex (DFW) | Hybrid & Remote Alignment.
