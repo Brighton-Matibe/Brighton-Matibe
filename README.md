@@ -25,8 +25,8 @@ I bridge the gap between heavy data engineering pipelines and cross-functional p
 ---
 
 ### 🎓 Education & Academic Foundation
-* **Master of Science (MS) in Business Analytics & Artificial Intelligence** | The University of Texas at Dallas (December 2024)
-* **Bachelor of Science (BS) in Economics** | (2019)
+* **Master of Science (MS) in Business Analytics & Artificial Intelligence** | The University of Texas at Dallas (December 2026)
+* **Bachelor of Science (BS) in Economics** | (August 2019)
 
 ### 📜 Professional Certifications
 * **Professional Scrum Product Owner (PSPO I)** | Scrum.org (Credential ID: Locked & Verified)
