@@ -15,12 +15,12 @@ I bridge the gap between heavy data engineering pipelines and cross-functional p
 ### 🚀 Featured Data Products (Detailed Below)
 
 #### 📱 [1. Mobile App Feature Engagement & Funnel Analysis](https://github.com/Brighton-Matibe/Mobile-Feature-Engagement-Analysis)
-* **The Core:** Ingested user behavior data to uncover a mid-funnel conversion bottleneck at 45%. Designed an A/B test framework ($N=6,400$) and ran a Chi-Square test confirming a statistically significant conversion lift to 51% via target UI tool-tips.
+* **The Core:** Ingested user behavior data to uncover a mid-funnel conversion bottleneck at 45%. Designed an A/B test framework (N = 6,400) and ran a Chi-Square test confirming a statistically significant conversion lift to 51% via target UI tool-tips.
 * **Applied AI:** Engineered a binary **Logistic Regression Classification Model** utilizing `tidymodels` to predict individual user churn probabilities, allowing product teams to automate proactive marketing guardrails.
 
 #### 📈 [2. Global Supply Chain Risk Dashboard](https://github.com/Brighton-Matibe/Product-Analytics-Projects)
 * **The Core:** Automated a macroeconomic freight cost pipeline integrated with FRED indices. Built optimized backend data models utilizing **multi-layered SQL CTEs** and window functions (`AVG() OVER`, `LEAD()`) to isolate structural vendor delays from random shipping noise.
-* **Applied AI:** Built a **Linear Regression Machine Learning Engine** to forecast exact transit lead-time delay windows ($R^2 > 0.82$), shifting the operations workflow from reactive debugging to predictive inventory management.
+* **Applied AI:** Built a **Linear Regression Machine Learning Engine** to forecast exact transit lead-time delay windows (R-Squared > 0.82), shifting the operations workflow from reactive debugging to predictive inventory management.
 
 ---
 
